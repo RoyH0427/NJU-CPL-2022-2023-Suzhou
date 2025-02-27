@@ -1,3 +1,3 @@
-# NJUSZ-Intelligent-Software-and-Engineering
+# 南苏智软
 
-来自南京大学技术科学试验班智能软件与工程专业的一个fvv
+来自南苏智软的一个fvv
