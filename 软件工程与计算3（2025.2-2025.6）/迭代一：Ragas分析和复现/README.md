@@ -33,10 +33,9 @@
 
 ## Git 配置
 
-每位同学全程使用一致的 Git 用户名、Git 邮箱，要求 Git 用户名为**自己姓名的拼**
-**音**，Git邮箱为**校内邮箱**
+每位同学全程使用一致的 Git 用户名、Git 邮箱，要求 Git 用户名为**自己姓名的拼音**，Git邮箱为**校内邮箱**
 
-1. **设置用户名**：将引号里的username替换为自己的姓名拼音，如Huang Leyan
+1. **设置用户名**：将引号里的username替换为自己的姓名拼音
 
    ```
    git config --global user.name "username"
