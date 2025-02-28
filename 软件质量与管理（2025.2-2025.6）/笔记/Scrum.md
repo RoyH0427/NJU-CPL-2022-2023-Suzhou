@@ -74,7 +74,7 @@ Scrum Team 规模足够小以保持灵活，同时足够大以便可以在 一�
 
 - **自管理的 Scrum Team**：在团队内部决定谁做什么、何时做以及如何做
 
-<img src="E:\大三下\软件质量与管理\笔记\Scrum.assets\image-20250220203405382.png" alt="image-20250220203405382" style="zoom:67%;"/>
+<img src="./Scrum.assets/image-20250220203405382.png" alt="image-20250220203405382" style="zoom:67%;" />
 
 **微观管理及其危害**：
 
@@ -262,9 +262,9 @@ Sprint 持续多久才算合适？当前，Scrum 周期通常为2个星期。
 
 **Sprint 管理——白板**：**燃尽图**
 
-<img src="E:\大三下\软件质量与管理\笔记\Scrum.assets\image-20250221100922099.png" alt="image-20250221100922099" style="zoom:67%;" align="left"/>
+<img src="./Scrum.assets/image-20250221100922099.png" alt="image-20250221100922099" style="zoom:67%;" />
 
-<img src="E:\大三下\软件质量与管理\笔记\Scrum.assets\image-20250221100328304.png" alt="image-20250221100328304" style="zoom: 67%;" align="left"/>
+<img src="./Scrum.assets/image-20250221100328304.png" alt="image-20250221100328304" style="zoom:67%;" />
 
 包含信息：
 
@@ -316,7 +316,7 @@ Sprint 回顾是仅次于Sprint计划的第二重要的事件，是做出改进�
 
 - 工具：使用白板
 
-  <img src="E:\大三下\软件质量与管理\笔记\Scrum.assets\image-20250221100849689.png" alt="image-20250221100849689" style="zoom:67%;" />
+  <img src="./Scrum.assets/image-20250221100849689.png" alt="image-20250221100849689" style="zoom:67%;" />
 
   - Good：哪些做法可以保持
 
